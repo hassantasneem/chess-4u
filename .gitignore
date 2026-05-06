@@ -1,0 +1,10 @@
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.user
+*.suo
+.vs/
+Debug/
+Release/
+x64/
