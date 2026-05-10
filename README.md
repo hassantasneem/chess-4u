@@ -2,6 +2,7 @@
 **OOP Semester Project | Spring 2026** **National University of Computer and Emerging Sciences (FAST-NUCES)**
 
 A fully functional, object-oriented console-based Chess game implemented in C++. This project was developed to demonstrate the practical application of core Object-Oriented Programming principles including Inheritance, Polymorphism, and Encapsulation.
+<img width="356" height="466" alt="image" src="https://github.com/user-attachments/assets/b4e9f9b7-e878-40fb-af3d-70d638de43d0" />
 
 ---
 
