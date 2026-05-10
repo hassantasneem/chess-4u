@@ -37,3 +37,19 @@ This project utilizes the following OOP concepts:
 ├── Board.h/.cpp      # 8x8 Grid management and move validation
 ├── Piece.h/.cpp      # Base class for all pieces
 └── Pieces/           # Derived classes (Pawn, Knight, etc.)
+```
+
+---
+## How to Run Locally
+
+```bash
+# Clone the repository
+git clone [https://github.com/hassantasneem/chess-4u.git](https://github.com/hassantasneem/chess-4u.git)
+cd chess-4u
+
+# Compile
+g++ -o chess_game *.cpp
+
+# Run
+./chess_game
+```
